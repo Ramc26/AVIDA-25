@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: gray;
+}
+
+.headLogo{
+    padding: 1rem 1rem;
+    background-color: black;
+    align-content: center;
+    color: Orange;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
